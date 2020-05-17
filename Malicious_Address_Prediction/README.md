@@ -26,10 +26,10 @@
 17. label
     
 ## Distribution of the data: 
-<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-1.png' />
-<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-2.png' />
-<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-4.png' />
-<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-3.png' />
+<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-1.png' />
+<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-2.png' />
+<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-4.png' />
+<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-3.png' />
 <p align='center'>Fig.1: Log of the data</p>
        
 ## Alogorithms Applied:
@@ -40,3 +40,6 @@
 | MLP(Multi Layer Perceptron) | 90.44 |
 | KNN (k=4) | 88.76 |
 | Logistic Regression | 87.64 |
+
+## References
+<a href='https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/addresses'>Malicious addresses repository</a>
