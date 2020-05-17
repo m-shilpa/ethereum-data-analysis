@@ -1,12 +1,12 @@
 # Malicious Address Prediction
 
-Data Stats:
+## Data Stats:
 * Total no. of instances: 534
     * Malicious addresses: 267
     * Non-Malicious addresses: 267
 * No. of attributes: 17
 
-List of attributes:
+## List of attributes:
 1. address
 2. comment
 3. no_of_out_transactions
@@ -25,14 +25,14 @@ List of attributes:
 16. monthly_ether_recieved
 17. label
     
-Distribution of the data: 
+## Distribution of the data: 
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-1.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-2.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-4.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/log1p(data)-3.png' />
 <p align='center'>Fig.1: Log of the data</p>
        
-Alogorithms Applied:
+## Alogorithms Applied:
 
 | Algorithm | Accuracy|
 | --- | --- |
