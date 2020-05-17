@@ -28,8 +28,8 @@
 ## Distribution of the data: 
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-1.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-2.png' />
-<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-4.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-3.png' />
+<img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-4.png' />
 <p align='center'>Fig.1: Log of the data</p>
        
 ## Alogorithms Applied:
@@ -43,3 +43,4 @@
 
 ## References
 <a href='https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/addresses'>Malicious addresses repository</a>
+<a href='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/Algorithms.ipynb'>Code for the algorithms</a>
