@@ -25,7 +25,8 @@
 16. monthly_ether_recieved
 17. label
     
-## Distribution of the data: 
+<h2> <a href='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/Data_Analytics.ipynb'>Distribution of the data: </a></h2>
+
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-1.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-2.png' />
 <img src='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/images/Log1p(data)-3.png' />
@@ -39,19 +40,18 @@ The distinguishing attributes are:  Active months, ether balance, time between i
 This can be a characteristic of a spam address which sends advertisements etc. to other addresses. These can be sent by a bot so time between transactions are low. Since their objective is sending spam messages, ether balance in their account is low, since ether is not needed by them to do their job.
 
  
-## Alogorithms Applied:
+<h2> <a href='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/Algorithms.ipynb'>Alogorithms Applied:</a></h2>
 
 | Algorithm | Accuracy|
 | --- | --- |
 | Random Forest | 94.94 |
 | MLP(Multi Layer Perceptron) | 92.13 |
-| KNN (k=4) | 88.76 |
 | Logistic Regression | 87.64 |
+| KNN (k=2) | 86.51 |
 
 ## References
 <a href='https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/addresses'>Malicious addresses repository</a>
 
-<a href='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/Data_Analytics.ipynb'>Data Analytics</a>
 
-<a href='https://github.com/mshilpaa/ethereum-data-analysis/blob/master/Malicious_Address_Prediction/Algorithms.ipynb'>Code for the algorithms</a>
+
 
