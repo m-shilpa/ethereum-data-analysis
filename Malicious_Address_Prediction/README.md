@@ -46,8 +46,9 @@ This can be a characteristic of a spam address which sends advertisements etc. t
 | --- | --- |
 | Random Forest | 94.94 |
 | MLP(Multi Layer Perceptron) | 92.13 |
+| KNN (k=7) | 88.76 |
 | Logistic Regression | 87.64 |
-| KNN (k=2) | 86.51 |
+
 
 ## References
 <a href='https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/addresses'>Malicious addresses repository</a>
