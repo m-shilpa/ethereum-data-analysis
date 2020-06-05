@@ -44,14 +44,18 @@ This can be a characteristic of a spam address which sends advertisements etc. t
 
 | Algorithm | Accuracy|
 | --- | --- |
-| Random Forest | 94.94 |
-| MLP(Multi Layer Perceptron) | 92.13 |
-| KNN (k=7) | 88.76 |
-| Logistic Regression | 87.64 |
+| Random Forest |	0.9494 |
+| MLP(Multi Layer Perceptron) |	0.9213 |
+| SVM |	0.8932 |
+| KNN (k=4)	| 0.8876 |
 
 
 ## References
-<a href='https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/addresses'>Malicious addresses repository</a>
+* <a href='https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/addresses/addresses-darklist.json'>Malicious addresses repository</a>, Accessed: April 9, 2020.
+*	 <a href='https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html'>Random Forest.</a>
+*	 <a href='https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html'>MLP.</a>
+*	 <a href='https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html'>SVM.</a>
+*	 <a href='https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html'>KNN.</a>
 
 
 
